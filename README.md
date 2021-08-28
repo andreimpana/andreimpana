@@ -1,4 +1,4 @@
-<h1 align="center"> Hey there👋! I'm Andrei Pana.
+<h1 align="center"> Hey there👋!
   <br>
   <a href="https://www.example.com/">
     <img src="https://img.shields.io/badge/-Andrei%20Pana-blue?style=plastic&logo=linkedin&logoColor=white" alt="Andrei"/>
