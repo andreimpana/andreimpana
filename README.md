@@ -1,13 +1,10 @@
-<p align="center">
-</p>
-
-<h2> Hey there👋! I'm Andrei Pana.
+<h1 align="center"> Hey there👋! I'm Andrei Pana.
   <br>
   <a href="https://www.example.com/">
     <img src="https://img.shields.io/badge/-Andrei%20Pana-blue?style=plastic&logo=linkedin&logoColor=white" alt="Andrei"/>
   </a>
-  </h2>
-<h2> Currently a computer science student </h2>
+  </h1>
+<h2 align="center"> Currently a computer science student </h2>
 
 ## 👨🏻‍💻 &nbsp;About Me 
 
