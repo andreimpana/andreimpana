@@ -1,8 +1,59 @@
-### Hi there 👋
+<p align="center">
+</p>
 
-![](https://komarev.com/ghpvc/?username=voodoufreak)
+<h2> Hey there👋! I'm Andrei Pana.
+  <br>
+  <a href="https://www.example.com/">
+    <img src="https://img.shields.io/badge/-Andrei%20Pana-blue?style=plastic&logo=linkedin&logoColor=white" alt="Andrei"/>
+  </a>
+  </h2>
+<h2> Currently a computer science student </h2>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=voodoufreak)](https://github.com/anuraghazra/github-readme-stats)
+## 👨🏻‍💻 &nbsp;About Me 
+
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Studied Computer Engineering and Studying Computer Science at Wilfrid Laurier.
+
+
+## 💼 &nbsp;Things that I'm currently working on: 
+* Learning Front-End & Back-End Web:computer: Development
+* Looking forward to take a Flutter:calling: course in future.
+* Creating a portfolio website :globe_with_meridians:
+* 🔜
+
+
+## 🛠 &nbsp;Tech Stack
+
+- 💻 &nbsp;
+  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  <!-- ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+  ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)-->
+- 🌐 &nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![BootStrap](https://img.shields.io/badge/-BootStrap-333333?style=flat&logo=bootstrap&logoColor=1572B6)
+  ![JQuery](https://img.shields.io/badge/-JQuery-333333?style=flat&logo=jquery)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  <!-- ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django) -->
+- 🛢 &nbsp;
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  <!-- ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase) -->
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+- 📱 &nbsp;
+  ![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)
+  
+<br/>
+
+## 📈 Stats
+![Andrei's github stats](https://github-readme-stats.vercel.app/api?username=voodoufreak&hide=["issues"]&show_icons=true&line_height=30)
+![Andrei's Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=voodoufreak&theme=buefy&layout=compact&langs_count=10)
 
 <!--
 **voodoufreak/voodoufreak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,4 +68,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+### Hi there 👋
+
+![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
+![ReactNative](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+
+Profile Counter: 
+<!-- <img src="https://komarev.com/ghpvc/?username=voodoufreak&label=Profile%20views&color=0e75b6&style=flat" alt="Andrei" /> --->
+<!-- linkedIn -->
