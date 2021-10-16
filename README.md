@@ -49,8 +49,8 @@
 <br/>
 
 ## 📈 Stats
-![Andrei's github stats](https://github-readme-stats.vercel.app/api?username=voodoufreak&hide=["issues"]&show_icons=true&line_height=30)
-![Andrei's Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=voodoufreak&theme=buefy&layout=compact&langs_count=10)
+![Andrei's github stats](https://github-readme-stats.vercel.app/api?username=andreimpana&hide=["issues"]&show_icons=true&line_height=30)
+![Andrei's Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=andreimpana&theme=buefy&layout=compact&langs_count=10)
 
 <!--
 **voodoufreak/voodoufreak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
