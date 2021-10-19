@@ -1,6 +1,6 @@
 <h1 align="center"> Hey there👋!
   <br>
-  <a href="https://www.example.com/">
+  <a href="https://www.linkedin.com/in/andreimpana/">
     <img src="https://img.shields.io/badge/-Andrei%20Pana-blue?style=plastic&logo=linkedin&logoColor=white" alt="Andrei"/>
   </a>
   </h1>
@@ -26,6 +26,7 @@
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)
   <!-- ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
   ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)-->
 - 🌐 &nbsp;
@@ -38,8 +39,8 @@
   <!-- ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django) -->
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  <!-- ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase) -->
+  ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase) 
+  <!-- ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)-->
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
